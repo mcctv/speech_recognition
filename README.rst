@@ -66,9 +66,9 @@ See the ``examples/`` `directory <https://github.com/Uberi/speech_recognition/tr
 
 Installing
 ----------
-First of First     
-sudo apt-get install -qq python python-dev python-pip build-essential swig libpulse-dev
-sudo pip install pocketsphinx
+First of First ,     
+`` sudo apt-get install -qq python python-dev python-pip build-essential swig libpulse-dev`` .
+`` sudo pip install pocketsphinx`` .
 
 First, make sure you have all the requirements listed in the "Requirements" section. 
 
